@@ -1,4 +1,4 @@
-package javainterview;
+package javainterview.question1;
 
 public class Question1_Fibonacci {
 
@@ -15,3 +15,4 @@ public class Question1_Fibonacci {
         throw new UnsupportedOperationException("Not implemented yet");
     }
 }
+

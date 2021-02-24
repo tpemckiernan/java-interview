@@ -1,4 +1,4 @@
-package javainterview;
+package javainterview.question2;
 
 public class Question2_ClosestPrime {
 
